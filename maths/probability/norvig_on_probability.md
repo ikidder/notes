@@ -1,0 +1,1 @@
+https://nbviewer.org/url/norvig.com/ipython/Probability.ipynb
