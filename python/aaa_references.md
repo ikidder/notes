@@ -1,10 +1,10 @@
 # references 
 
+## Python tutorial
+https://docs.python.org/3/tutorial/index.html
+
 ## Composing Programs
 https://composingprograms.com
-
-## Python tutorial
-https://docs.python.org/3/tutorial/
 
 ## So you want to be a Python expert
 https://www.youtube.com/watch?v=cKPlPJyQrt4
