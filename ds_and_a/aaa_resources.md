@@ -18,6 +18,8 @@ https://algs4.cs.princeton.edu/home/
 free courses   
 https://www.coursera.org/learn/algorithms-part1  
 https://www.coursera.org/learn/algorithms-part2
+on youtube
+https://www.youtube.com/watch?v=9diDWV-fOnE&t=3353s
 
 
 ## Leetcode solutions in python
@@ -51,6 +53,13 @@ https://visualgo.net/en
 ## How to find a solution to a problem
 https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution
 
+## Videos
+
+Tushar Roy - really good explanations of different algos. Look at his playlists.  
+https://www.youtube.com/user/tusharroy2525
+
+Nick White leetcode solutions  
+https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-
 
 
 ## Leetcode solution videos

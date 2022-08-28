@@ -8,3 +8,6 @@ book (have)
 
 ## Thinking in Systems
 book (have)
+
+## Hacker News Great Posts
+https://gist.github.com/sachinsmc/2d2e86743204f4c6d16135406f8401c4

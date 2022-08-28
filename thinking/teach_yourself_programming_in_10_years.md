@@ -1,0 +1,2 @@
+http://norvig.com/21-days.html#answers
+
