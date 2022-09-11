@@ -28,6 +28,15 @@ https://github.com/qiyuangong/leetcode/tree/master/python
 ## CS 61 Lecture videos
 https://www.youtube.com/playlist?list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8
 
+## MIT OpenCouseware playlist
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+
+## Advanced Algorithms course
+https://courses.csail.mit.edu/6.851/spring21/lectures/
+
+## The Algorithmic Toolbox
+https://web.stanford.edu/class/cs168/index.html
+
 ## Very basic Google vids
 https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/
 

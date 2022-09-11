@@ -3,6 +3,10 @@
 ## Mental Models
 https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.9p3j14rmk
 
+## Charlie Munger's mental models
+questionable source - verify  
+https://youtu.be/ywyQ_eNNCJU
+
 ## The Art of Doing Science and Engineering
 book (have)
 
