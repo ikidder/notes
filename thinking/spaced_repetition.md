@@ -1,0 +1,1 @@
+https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering/
